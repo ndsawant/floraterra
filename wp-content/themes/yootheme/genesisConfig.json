@@ -1,0 +1,79 @@
+{
+    "gp_config_data":{
+        "plugin_version":"1.0.0",
+        "config_version":"1.0.0"
+    },
+    "gp_general_settings":{
+        "admin_logo" : "/wp-content/plugins/genesispro/images/genesis-logo/admin_logo.png",
+        "favicon" : "/wp-content/plugins/genesispro/images/genesis-logo/favicon.ico",
+        "login_logo" : "/wp-content/plugins/genesispro/images/genesis-logo/login_logo.png"
+    },
+    "gp_secure_settings":{
+        "disable_wordpress_upgrade" : "1",
+        "disable_all_auto_core_update" : "1",
+        "auto_update_plugins" : "1",
+        "en_di_comment_ping" : "1",
+        "theme_editor" : "0",
+        "maintenance_mode" : "0",
+        "secure_login" : "1",
+        "login_attempt" : "5",
+        "time_lockout" : "12",
+        "time_lockout_unit" : "min",
+        "admin_notify_lockout" : "1",
+        "comment_form_security" : "1",
+        "login_form_captcha" : "0",
+        "force_ssl_entire" : "0",
+        "force_ssl_pages" : "",
+        "force_ssl_post" : ""
+    },
+    "gp_redirect_settings":{
+        "not_found_page" : "/",
+        "remove_slash" : "0"
+    },
+    "gp_wsi_settings":{
+        "widgets":{
+            "gp_featured_page_post": "1",
+            "gp_categories": "1",
+            "gp_tab_cloud": "1"
+        },
+        "wp_widgets": {
+            "categories": "0",
+            "pages": "0",
+            "posts": "0",
+            "tag_cloud": "0"
+        },
+        "post_content": "Content",
+        "content_limit": "",
+        "search_content_limit": "50",
+        "search_per_page": "10",
+        "revision": "5",
+        "auto_save": "360",
+        "sitemap":"0"
+    },
+    "gp_social_share_settings":{
+        "theme" : "classic",
+        "heading" : "",
+        "layout" : "horizontal",
+        "size" : "default",
+        "counter" : "off",
+        "service" : {
+                "0" : "facebook",
+                "1" : "twitter",
+                "2" : "gplus",
+                "3" : "pinterest",
+                "4" : "linkedin"
+        },
+        "post_above_content" : "0",
+        "post_below_content" : "0",
+        "page_above_content" : "0",
+        "page_below_content" : "0",
+        "category_above_content" : "0",
+        "category_below_content" : "0"
+    },
+    "gp_social_icon_settings":{
+        "size" : "25",
+        "open_new_tab" : "0",
+        "color" : "#1e73be",
+        "hover_color" : "#809fbf"
+    }
+}

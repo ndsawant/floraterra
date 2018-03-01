@@ -1,0 +1,54 @@
+/*
+* Widget style
+*/
+.hr {
+border:1px solid #d0d0d0;
+}
+
+.genesis-widget {
+border:1px solid #D0D0D0;
+float:left;
+margin:5px 0;
+padding:8px;
+}
+
+.genesis-widget-column {
+float:left;
+width:46%;
+padding:8px;
+}
+
+.genesis-widget-left {
+border-right:1px solid #D0D0D0;
+}
+
+.genesis-widget-column-right {
+float:right;
+}
+
+.sb_cb {
+margin:2px 5px 5px 0 !important;
+}
+
+ul.list-limit {
+border:1px solid #eee;
+max-height:110px;
+overflow:auto;
+margin-top:0;
+padding:10px;
+}
+
+.feature-post-wrapper {
+background:#fafafa;
+border:1px solid #e5e5e5;
+margin-bottom:5px;
+padding:10px;
+}
+
+#wpadminbar .ab-icon:hover {
+background-image:url(../images/genesis-icons/genesis-logo-hover.png)!important;
+}
+
+input[type=number].tag-minmax{
+    width: 65px;
+}
